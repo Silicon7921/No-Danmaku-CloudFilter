@@ -9,8 +9,8 @@
 // @run-at       document-start
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        none
-//@updateURL https://raw.githubusercontent.com/Silicon7921/No-Danmaku-CloudFilter/main/main.js
-//@downloadURL https://raw.githubusercontent.com/Silicon7921/No-Danmaku-CloudFilter/main/main.js
+// @updateURL https://raw.githubusercontent.com/Silicon7921/No-Danmaku-CloudFilter/main/main.js
+// @downloadURL https://raw.githubusercontent.com/Silicon7921/No-Danmaku-CloudFilter/main/main.js
 // ==/UserScript==
 
 if (!unsafeWindow.Map.prototype._set) {
