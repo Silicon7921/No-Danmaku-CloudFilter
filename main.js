@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         No BiliBili Danmaku CloudFilter
 // @namespace    fkcr
-// @version      0.0.1
+// @version      0.0.2
 // @description  干掉弹幕云屏蔽，恢复那些被隐藏的弹幕
 // @author       CorePomelo
 // @license      GPL-3.0
@@ -9,6 +9,8 @@
 // @run-at       document-start
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        none
+//@updateURL https://raw.githubusercontent.com/Silicon7921/No-Danmaku-CloudFilter/main/main.js
+//@downloadURL https://raw.githubusercontent.com/Silicon7921/No-Danmaku-CloudFilter/main/main.js
 // ==/UserScript==
 
 if (!unsafeWindow.Map.prototype._set) {
